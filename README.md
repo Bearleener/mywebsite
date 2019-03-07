@@ -12,3 +12,4 @@ Und der nächste Satz!
 Und ein weiterer Satz!
 
 Änderung fǘr Difftool
+Änderung für simple
