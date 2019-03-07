@@ -1,3 +1,6 @@
 unwantedfile
 unwantedfolder
 unwanted
+access.log
+auth.log
+error.log
